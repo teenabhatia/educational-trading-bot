@@ -10,6 +10,10 @@ This project involves the development of a sophisticated trading bot using Pytho
 - **Data Analysis:** Utilizes Pandas and NumPy for comprehensive data analysis and algorithm refinement.
 - **Visualization:** Employs Matplotlib to generate detailed performance reports and visualizations.
 
+## Files
+- **User Input File:** Allows users to enter parameters from the command line for a customizable trading experience.
+- **No User Input File:** Parameters must be set directly in the code for automated trading simulation.
+  
 ## Technologies Used
 - **Programming Language:** Python
 - **API:** Alpha Vantage
